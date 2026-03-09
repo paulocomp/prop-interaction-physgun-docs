@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
-=======================================
+#Godot Prop Interaction Documentation
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+See project repository [here](https://github.com/paulocomp/prop-interaction-physgun-asset)
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
