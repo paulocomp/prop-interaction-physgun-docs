@@ -1,22 +1,43 @@
-Welcome to Lumache's documentation!
-===================================
+Godot Prop Interaction Physgun
+===============================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Asset for Godot 4.6 that enables customizable physical interactions with props.
 
 .. note::
 
-   This project is under active development.
+   This is version ``0.1.0``, a minimum viable release.
+   the current architecture does not yet fully reflect the asset's goals,
+   but improvements are on the way.
 
-Contents
---------
+.. image:: _static/gifs/presentation01.gif
+   :alt: camera-mode-demo-01
+   :width: 60%
+   :align: center
+
+|
+
+.. image:: _static/gifs/presentation02.gif
+   :alt: camera-mode-demo-02
+   :width: 60%
+   :align: center
+
+|
 
 .. toctree::
+   :maxdepth: 2
+   :caption: About
 
-   usage
-   api
+   about
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Getting Started
+
+   demo_scenes
+   scene_from_scratch
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Dev Guide
+
+   core_and_components
