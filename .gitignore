@@ -62,7 +62,7 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
-.import
+*.import
 nosetests.xml
 coverage.xml
 *.cover
