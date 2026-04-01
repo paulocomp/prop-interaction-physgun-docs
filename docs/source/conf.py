@@ -5,7 +5,7 @@ project = 'Godot Prop Interaction Physgun'
 copyright = '2026, Paulo Correa'
 author = 'Paulo S. Correa'
 release = '1.0'
-version = '0.1.0'
+version = '0.2.0'
 
 # -- General configuration
 extensions = []

@@ -3,11 +3,7 @@ Godot Prop Interaction Physgun
 
 Asset for Godot 4.6 that enables customizable physical interactions with props.
 
-.. note::
-
-   This is version ``0.1.0``, a minimum viable release.
-   the current architecture does not yet fully reflect the asset's goals,
-   but improvements are on the way.
+|
 
 .. image:: _static/gifs/presentation01.gif
    :alt: camera-mode-demo-01
